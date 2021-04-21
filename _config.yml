@@ -24,8 +24,8 @@ description              : "Daily Study Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #
-teaser                   : "/assets/images/stella9605.png"
-logo                     : "/assets/images/stella9605.png"
+teaser                   : "/assets/image/stella9605.png"
+logo                     : "/assets/image/stella9605.png"
 masthead_title           : "기록하는 DBA"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
