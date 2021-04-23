@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Data Scientists Prepare for the Future"
 title_separator          : "-"
-subtitle                 :  "공부하는 DB2의 DBA. 그리고 데이터싸이언티스트를 준비하는 기록"
+subtitle                 :  # 서브
 name                     : "Ju Hee Lee"
 description              : "Daily Study Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #
 teaser                   : "/assets/image/stella9605.png"
 logo                     : "/assets/image/stella9605.png"
-masthead_title           : "기록하는 DBA"
+masthead_title           : "I'm coming to my stride" # 메인
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Stella"
+  name             : "Ju Hee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a DBA of DB2 and I'm preparing to be a data scientist. "
   location         : "Seoul, South Korea"
